@@ -1,0 +1,1 @@
+Paul Tolさんの配色についての[記事](https://personal.sron.nl/~pault/)を勝手に翻訳したよ．
