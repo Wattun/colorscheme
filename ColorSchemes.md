@@ -28,7 +28,7 @@
 もう1つの代案として，鮮やかな配色のFig.3である．これはデータ可視化フレームワークのTensorBoardに使用されている．
 
 ![vibrant_scheme](picture/scheme_vibrant.png)
-&emsp;&emsp;Figure.3 : Fig.1の代案である鮮やかな配色．
+&emsp;&emsp;Figure.3 : Fig.1の代案である鮮やかな配色． 
 # 分散データ
 
 # 連続的データ
